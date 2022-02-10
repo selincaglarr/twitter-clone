@@ -1,6 +1,4 @@
-
 import React from 'react'
-import "./index.css"
 import Container from './layout/Container';
 import Sidebar from './layout/Sidebar';
 import Content from './layout/Content';
